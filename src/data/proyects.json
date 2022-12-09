@@ -109,7 +109,7 @@
         "image": "/assets/techs/Tailwind-img.png"
       }
     ],
-    "repo": "https://github.com/barbosa0205/portfolio2",
+    "repo": "https://github.com/barbosa0205/portfolio---Astro",
     "web": "https://barbosadev.com",
     "longDesc": "<!DOCTYPE html>\n<html>\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Welcome file</title>\n  <link rel=\"stylesheet\" href=\"https://stackedit.io/style.css\" />\n</head>\n\n<body class=\"stackedit\">\n  <div class=\"stackedit__html\"><p><img src=\"https://i.imgur.com/rs2pYlr.png\" alt=\"enter image description here\"></p>\n<p>Mi porta folio web donde encontraras información sobre mi y lo que hago como desarrollador web.</p>\n<p>El proyecto fue creado utilizando las siguientes tecnologías:</p>\n<ul>\n<li>React</li>\n<li>MongoDB</li>\n<li>CSS</li>\n</ul>\n<p>La aplicación web cuenta con las siguientes funciones:</p>\n<ul>\n<li>Obtener las tecnologías desde la base de datos.</li>\n<li>Obtener los proyectos desde la base de datos.</li>\n<li>Menu de navegación.</li>\n<li>Enrutador para cambiar entre paginas.</li>\n<li>Responsive.</li>\n</ul>\n</div>\n</body>\n\n</html>"
   },
